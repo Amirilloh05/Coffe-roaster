@@ -575,14 +575,44 @@ align-self: flex-end;
   font-size: 18px;
   line-height:28px ;
 }
-.how-it-works-action {
+
+
+
+.menzorman{
+  margin-top: 50px;
 }
 
+.site-footer-container{
+  display: flex;
+}
+
+.site-footer-nav-list{
+  margin-top: 121px;
+  display: flex;
+  text-decoration: none;
+}
+
+.site-footer-nav-item{
+  text-decoration: none;
+
+}
+.site-footer-nav-item{
+  text-decoration: none;
+  list-style: none;
+  color: #000;
+  margin-left: 40px ;
+}
+.site-footer-link{
+  width: 84px;
+height: 19px;
+text-transform: uppercase;
+
+  color: #000;
+  text-decoration: none;
+  list-style: none;
 
 
-
-
-
+}
 
 
 /* RETINA-BGI */
